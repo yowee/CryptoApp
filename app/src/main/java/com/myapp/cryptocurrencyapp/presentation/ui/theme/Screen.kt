@@ -1,4 +1,4 @@
-package com.myapp.cryptocurrencyapp.presentation.theme
+package com.myapp.cryptocurrencyapp.presentation.ui.theme
 
 sealed class Screen(val route: String) {
     object CoinListScreen : Screen("coin_list_screen")

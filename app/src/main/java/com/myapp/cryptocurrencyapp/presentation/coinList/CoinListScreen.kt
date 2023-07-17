@@ -17,7 +17,7 @@ import androidx.compose.ui.unit.dp
 import androidx.hilt.navigation.compose.hiltViewModel
 import androidx.navigation.NavController
 import com.myapp.cryptocurrencyapp.presentation.coinList.component.CoinListItem
-import com.myapp.cryptocurrencyapp.presentation.theme.Screen
+import com.myapp.cryptocurrencyapp.presentation.ui.theme.Screen
 
 @Composable
 fun CoinListScreen(
